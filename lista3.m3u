@@ -18,5 +18,8 @@ https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 
 
 *MÚSICA 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/232ndRK.png" ,AFROBEATS
+https://stream.ecable.tv/afrobeats/index.m3u8
+
 #EXTINF:-1 tvg-logo="" ,AFN MUSIC
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
