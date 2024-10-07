@@ -10,6 +10,8 @@ https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwUVTmS.png" ,ENLACE
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VKYzFpZ.png" ,OASIS TV 
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 
 
 
@@ -24,7 +26,8 @@ https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" ,DISNEY CHANNEL
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YtPRKmS.png" ,PENIEL KIDS & YOUNG
+https://s.emisoras.tv:8081/penielkids/index.m3u8
 
 
 🔶 NOVELA 
@@ -51,6 +54,11 @@ https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/7345
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13MAX TELEVISIÓN
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7VH24E.png" ,RCN XTRA 
+https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" ,CARACOL TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
