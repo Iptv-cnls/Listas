@@ -6,6 +6,24 @@ https://mediacp.us:8081/azatvhd/index.m3u8
 
 
 
+
+🔶 INFANTIL 
+#EXTINF:-1 tvg-logo="" group-title=" ,CANELA KIDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
+
+
+
+
+
+🔶 NOVELA 
+#EXTINF:-1 tvg-logo="" group-title=" ,CANELA TELENOVELAS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
+
+
+
+
+
+
 🔶 VARIADO 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13MAX TELEVISIÓN
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
@@ -30,13 +48,19 @@ https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DmdBf9S.png" ,AYSEN TV
 https://v1.tustreaming.cl/aysentv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8Hllkpk.png" ,CANELATV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 
 
 
+#EXTINF:-1 tvg-logo="" group-title=" ,CANELA CLASICOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Am7yMXg.png" ,CANAL 21 TV 
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QGvfqug.png" ,CARACOLA TV
+https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
 
 
@@ -49,6 +73,14 @@ https://helga.iptv2022.com/sh/Afroculture/index.m3u8
 
 #EXTINF:-1 tvg-logo="" ,AFN MUSIC
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JWMk2fP.png" ,CANTINA TV
+https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title=" ,CANELA HITS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
+
+
 
 
 
