@@ -1,9 +1,12 @@
 #EXTM3U
 
+🔶 RELIGIÓN 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jytpy32.png" ,AZA TV HD (720P)
+https://mediacp.us:8081/azatvhd/index.m3u8
 
 
-variados 
 
+🔶 VARIADO 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13MAX TELEVISIÓN
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
 
@@ -17,9 +20,51 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
 https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 
 
-*MÚSICA 
+
+
+🔶 PELÍCULAS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DmdBf9S.png" ,AYSEN TV
+https://v1.tustreaming.cl/aysentv/index.m3u8
+
+
+
+
+
+
+
+🔶 MÚSICA 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/232ndRK.png" ,AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjaZ3kO.png" ,AFROCULTURE TV
+https://helga.iptv2022.com/sh/Afroculture/index.m3u8
+
 #EXTINF:-1 tvg-logo="" ,AFN MUSIC
 https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+
+
+
+🔶 OTROS 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" ,ATV ARGENTINA
+https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
+
+
+
+🔶 ANIME 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CFSSTID.png" ,ANIME TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+NOTICIAS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/snIU1UA.jpg" ,AMX NOTICIAS [NOT 24/7]
+https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
