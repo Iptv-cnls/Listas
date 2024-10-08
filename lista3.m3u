@@ -1,6 +1,6 @@
 #EXTM3U
 
-🔶 RELIGIÓN 
+#RELIGIÓN 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jytpy32.png" ,AZA TV HD (720P)
 https://mediacp.us:8081/azatvhd/index.m3u8
 
@@ -16,7 +16,7 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 
 
 
-🔶 INFANTIL 
+#INFANTIL 
 #EXTINF:-1 tvg-logo="" group-title=" ,CANELA KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
@@ -30,7 +30,7 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 
 
-🔶 NOVELA 
+#NOVELA 
 #EXTINF:-1 tvg-logo="" group-title=" ,NOVELAS TURCAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
@@ -51,7 +51,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 
 
 
-🔶 VARIADO 
+#LOCALES Y VARIADO 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/A1xzjOI.png" ,DW ESPAÑOL
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
@@ -80,7 +80,7 @@ https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
 https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playlist.m3u8
 
 
-🔶 PELÍCULAS 
+#PELÍCULAS 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" ,CANAL 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
@@ -127,7 +127,7 @@ https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8
 
 
 
-🔶 HISTORIAS Y DOCUMENTALES 
+#HISTORIAS Y DOCUMENTALES 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png" ,HISTORY
 https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
@@ -137,7 +137,7 @@ https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
 
 
-🔶 MÚSICA 
+#MÚSICA 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/232ndRK.png" ,AFROBEATS
 https://stream.ecable.tv/afrobeats/index.m3u8
 
@@ -154,8 +154,7 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
 
-🔶 ENTRETENIMIENTO 
-
+#ENTRETENIMIENTO 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" ,MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
 
@@ -163,7 +162,7 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 
 
 
-🔶 OTROS 
+#OTROS 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png" ,ATV ARGENTINA
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 
@@ -178,7 +177,7 @@ https://cdn.streamhispanatv.net:3549/live/barbetvlive.m3u8
 
 
 
-🔶 ANIME 
+#ANIME 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CFSSTID.png" ,ANIME TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
