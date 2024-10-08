@@ -1,9 +1,9 @@
 #EXTM3U
 #RELIGIÓN 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Jytpy32.png" ,AZA TV HD (720P)
+#EXTINF:-1 group-title="Religión" tvg-logo="https://i.imgur.com/Jytpy32.png" ,AZA TV HD (720P)
 https://mediacp.us:8081/azatvhd/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TZgEXPd.jpg" ,CASA SOBRE LA ROCA TV
+#EXTINF:-1 group-title="Religión" tvg-logo="https://i.imgur.com/TZgEXPd.jpg" ,CASA SOBRE LA ROCA TV
 https://cp.panelchs.com:1936/8118/8118/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YwUVTmS.png" ,ENLACE
