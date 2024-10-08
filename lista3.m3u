@@ -29,6 +29,8 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/YtPRKmS.png" ,PENIEL KIDS & YOUNG
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" ,NICKELODEON
+http://185.189.225.150:85/nickelodeon/index.m3u8
 
 
 
@@ -76,7 +78,7 @@ https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Y9x16vl.png" ,SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" ,CARACOL TV 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png" ,CARACOL TV
 https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" ,13C
@@ -93,6 +95,9 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 
 
 #PELÍCULAS 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" ,AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K0jk8p4.png" ,CANAL 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
@@ -163,6 +168,8 @@ https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" ,CANELA HITS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hythjEn.png" ,LA URBAN TV
+https://urbanrevolution.es:8443/live/TV/playlist.m3u8
 
 
 
