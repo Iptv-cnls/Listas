@@ -182,6 +182,9 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 tvg-logo="" ,FOX DEPORTES
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
+#EXTINF:-1 tvg-logo="" ,BO: CANAL 7.2 DEPORTES
+https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
+
 
 
 #OTROS 
