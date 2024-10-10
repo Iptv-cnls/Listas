@@ -17,6 +17,9 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 
 
 #INFANTIL 
+#EXTINF:-1 tvg-logo="" ,DISCOVERY KIDS HD
+http://209.45.101.36:50000/play/DiscoveryKidsHD/index.m3u8
+
 #EXTINF:-1 group-title="Infantil" tvg-logo=""  ,CANELA KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
