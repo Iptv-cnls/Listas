@@ -1,6 +1,6 @@
 #EXTM3U
 # RELIGIÓN 
-#EXTINF:-1 group-title="Religión" tvg-logo="https://i.imgur.com/Jytpy32.png" ,AZA TV HD (720P)
+#EXTINF:-1 group-title="Religión" tvg-logo="https://i.imgur.com/Jytpy32.png" ,AZA TV HD 
 https://mediacp.us:8081/azatvhd/index.m3u8
 
 #EXTINF:-1 group-title="Religión" tvg-logo="https://i.imgur.com/TZgEXPd.jpg" ,CASA SOBRE LA ROCA TV
@@ -17,9 +17,6 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 
 
 # INFANTIL
-#EXTINF:-1 group-title="Infantil" tvg-logo="", DISCOVERY KIDS Hd
-http://209.45.101.36:50000/play/DiscoveryKidsHD/index.m3u8
-
 #EXTINF:-1 group-title="Infantil" tvg-logo="", CANELA KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
@@ -32,8 +29,7 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/mani
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/YtPRKmS.png", PENIEL KIDS & YOUNG
 https://s.emisoras.tv:8081/penielkids/index.m3u8
 
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/E84jnP8.png", NICKELODEON
-http://185.189.225.150:85/nickelodeon/index.m3u8
+
 
 
 
@@ -43,9 +39,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
 #EXTINF:-1 group-title="Novela" tvg-logo="https://i.imgur.com/8dUS3Ih.png", NOVELISIMA
 https://dai.google.com/linear/hls/event/sFuxwI37R9KMTs-KywMcBg/master.m3u8
-
-#EXTINF:-1 group-title="Novela" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png", ESPERIA TV
-http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
 
 #EXTINF:-1 group-title="Novela" tvg-logo="", CANELA TELENOVELAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
@@ -59,7 +52,7 @@ https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Novela" tvg-logo="https://i.imgur.com/WIeZMKT.png", KANAL D DRAMA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 
-#EXTINF:-1 group-title="Novela" tvg-logo="", MX: AZTECA INTERNACIONAL
+#EXTINF:-1 group-title="Novela" tvg-logo="", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 
 
@@ -71,17 +64,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="Locales y Variados" tvg-logo="https://i.imgur.com/Gm4fs9W.png", CBN ESPAÑOL
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 
-#EXTINF:-1 group-title="Locales y Variados" tvg-logo="https://i.imgur.com/QvF4l2t.png", 13MAX TELEVISIÓN
-http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
-
 #EXTINF:-1 group-title="Locales y Variados" tvg-logo="https://i.imgur.com/N7VH24E.png", RCN XTRA 
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Locales y Variados" tvg-logo="https://i.imgur.com/Y9x16vl.png", SEÑAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="Locales y Variados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Caracol_Televisi%C3%B3n_logo.svg/512px-Caracol_Televisi%C3%B3n_logo.svg.png", CARACOL TV
-https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 #EXTINF:-1 group-title="Locales y Variados" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png", 13C
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
@@ -109,7 +96,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 #EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/FUrrDrb.png", CINE ROMANTICO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/bZWoDTg.png", CINE SONY (720P)
+#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/bZWoDTg.png", CINE SONY
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
 #EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/RIUNuMQ.png", CINELIFE
@@ -182,8 +169,6 @@ https://streamer1.nexgen.bz/MTV/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="", FOX DEPORTES
 https://csm-e-cetubiausw2live204-07ad27f1a339939e4.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?playback_start_ts=1727276199.351&yo.oh=Y3NtLWUtZWIuY3NtLnR1YmkudmlkZW8=
 
-#EXTINF:-1 group-title="Deportes" tvg-logo="", BO: CANAL 7.2 DEPORTES
-https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 
 
@@ -193,10 +178,10 @@ https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 group-title="Otros" tvg-logo="https://i.ibb.co/rMBVDmZ/atvargentina-x1.png", ATV ARGENTINA
 https://stream.arcast.com.ar/atbargentina/atbargentina/playlist.m3u8
 
-#EXTINF:-1 group-title="Otros" tvg-logo="https://i.imgur.com/3yeGDTP.png", CADENA ELITE (720P) [NOT 24/7]
+#EXTINF:-1 group-title="Otros" tvg-logo="https://i.imgur.com/3yeGDTP.png", CADENA ELITE 
 https://cloudvideo.servers10.com:8081/8004/index.m3u8
 
-#EXTINF:-1 group-title="Otros" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png", CANAL 7 NEUQUÉ
+#EXTINF:-1 group-title="Otros" tvg-logo="https://i.ibb.co/BrvQsWm/C7neuquenlogo2023.png", CANAL 7 
 https://stream.arcast.com.ar/c7nq/ngrp:c7nq_all/playlist.m3u8
 
 #EXTINF:-1 group-title="Otros" tvg-logo="https://i.imgur.com/2Sekew2.png", CANAL 9
@@ -213,9 +198,6 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 #EXTINF:-1 group-title="Anime" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg", MAX ANIME
 https://vcp14.myplaytv.com/maxanime/maxanime/playlist.m3u8
 
-#EXTINF:-1 group-title="Anime" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg", rrrrr
-https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(HBO2_HD_MX)/manifest.mpd
-
 #EXTINF:-1 group-title="Anime" tvg-logo="https://web.archive.org/web/20240509182044if_/https://pbs.twimg.com/profile_images/1744338643957780480/24Kv02RD_400x400.jpg", ANIMESTATION
 https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
@@ -223,7 +205,7 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 
 
 # NOTICIAS
-#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg", AMX NOTICIAS [NOT 24/7]
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg", AMX NOTICIAS 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
 
