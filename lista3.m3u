@@ -226,3 +226,27 @@ https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg", AMX NOTICIAS [NOT 24/7]
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
+
+
+
+
+
+
+#INFANTIL
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/Z7xNOgE.png", CARTOON NETWORK
+https://cdn-1.iptv.org/cartoons/index.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/NLszQci.png", NICKELODEON JUNIOR
+https://iptv.ixfo.com.ar:30443/nickjr/hd/nickjr/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/OoTuv9B.png", BOOMERANG
+https://live.boomerang.com/live/playlist.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/pM7DWrV.png", PEPPA PIG
+https://cdn.iptv.org/peppapig/index.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/4AV6K1E.png", DISNEY JUNIOR
+https://cdn-1.iptv.org/disneyjunior/index.m3u8
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://i.imgur.com/9Et9OsK.png", PBS KIDS
+https://pbs.kidsstream.com/live/playlist.m3u8
