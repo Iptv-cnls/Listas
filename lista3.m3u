@@ -35,6 +35,9 @@ https://s.emisoras.tv:8081/penielkids/index.m3u8
 
 
 # NOVELA
+#EXTINF:-1 group-title="Novela" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" ,CANAL 1 
+https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
+
 #EXTINF:-1 group-title="Novela" tvg-logo="", NOVELAS TURCAS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
 
@@ -55,6 +58,10 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-sams
 
 #EXTINF:-1 group-title="Novela" tvg-logo="", AZTECA INTERNACIONAL
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+
+#EXTINF:-1 group-title="Novela" tvg-logo="https://i.imgur.com/Agtfbfi.png" ,13 TELESERIES 
+https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8
+
 
 
 
@@ -88,6 +95,9 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 
 
 # PELÍCULAS
+#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" ,AXN
+https://streamer1.nexgen.bz/AXN/index.m3u8
+
 #EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/K0jk8p4.png", CANAL 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
@@ -181,10 +191,14 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
 #EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/rA9Y0Z1.jpg" ,CARARE TV 
 https://cp.panelchs.com:1936/8160/8160/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Música" tvg-logo="https://i.imgur.com/Jytpy32.png" ,AZA TV
+https://mediacp.us:8081/azatvhd/index.m3u8
 
 
 # ENTRETENIMIENTO
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/BtGK7iZ.png" ,A+ GUATE (720P)
+https://ch2-tva.duin.dev/hls/stream.m3u8
+
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/Gm4fs9W.png" ,CBN ESPAÑOL
 https://bcovlive-a.akamaihd.net/r21fb8503a4a74d098b798f16922b2a36/us-east-1/734546207001/playlist.m3u8
 
