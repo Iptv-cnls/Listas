@@ -200,6 +200,9 @@ https://mediacp.us:8081/azatvhd/index.m3u8
 
 
 # ENTRETENIMIENTO
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/snqCYWP.png" ,13 REALITIES
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/BtGK7iZ.png" ,A+ GUATE (720P)
 https://ch2-tva.duin.dev/hls/stream.m3u8
 
