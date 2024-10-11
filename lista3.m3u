@@ -208,6 +208,19 @@ https://ss5.domint.net:3034/astv_str/asmartv/playlist.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png", MTV
 https://streamer1.nexgen.bz/MTV/index.m3u8
 
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" ,13C (1080P)
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/QvF4l2t.png" ,13MAX TELEVISIÓN (1080P)
+http://coninfo.net:1935/13maxhd/live13maxtvnuevo/playlist.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://i.imgur.com/snqCYWP.png" ,13 REALITIES (1080P)
+https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8
+
+
+
+
+
 
 
 
