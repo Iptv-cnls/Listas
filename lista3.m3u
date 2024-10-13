@@ -35,6 +35,9 @@ https://s.emisoras.tv:8081/penielkids/index.m3u8
 
 
 # NOVELA
+#EXTINF:-1 group-title="Novelas" tvg-logo="https://i.imgur.com/yijitpa.png" ,Sony Canal Novelas
+https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+
 #EXTINF:-1 group-title="Novela" tvg-logo="https://i.ibb.co/KhNS8Dy/cropped-logoo-1.png" ,CANAL 1 
 https://59ef525c24caa.streamlock.net/canal1cr/canal1cr/playlist.m3u8
 
