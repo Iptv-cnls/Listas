@@ -98,6 +98,12 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 
 
 # PELÍCULAS Y SERIES 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/j91M4Yf.png" ,Xtrema Cine Clasico
+https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/z5NwizH.png" ,Xtrema Accion
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" ,AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
