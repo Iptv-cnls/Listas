@@ -309,3 +309,13 @@ https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
 
 
 
+# COLOMBIA 
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://graph.facebook.com/senalcolombiapaginaoficial/picture?width=200&height=200" ,Señal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://graph.facebook.com/TelepacificoTV/picture?width=200&height=200" ,Telepacifico Colombia
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" ,Noticias Caracol Colombia
+https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
+
