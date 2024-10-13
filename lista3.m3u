@@ -289,9 +289,23 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg" ,AMX NOTICIAS 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg" ,A
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60925a44f0350600075a1fdc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e05edb2-1f2c-11ef-86d8-5d587df108c6&devic
+
+Lista de canales:
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" ,24h 
+https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://graph.facebook.com/elpais/picture?width=200&height=200" ,El País 
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
+
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://graph.facebook.com/radionacionalrne/picture?width=200&height=200" ,RNE para todos 
+https://rtvelivestream.akamaized.net/rtvesec/rne/rne_para_todos_main.m3u8
+
+
+#EXTINF:-1 group-title="Noticias" tvg-logo="https://graph.facebook.com/eltorotv.es/picture?width=200&height=200" ,El Toro TV https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
 
 
 
