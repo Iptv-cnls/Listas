@@ -292,7 +292,7 @@ https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://i.imgur.com/snIU1UA.jpg" ,AMX NOTICIAS 
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 
-Lista de canales:
+
 #EXTINF:-1 group-title="Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1144547866393882626/2R0Khn5n_200x200.png" ,24h 
 https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 
@@ -319,3 +319,16 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" ,Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
+
+# MÉXICO 
+#EXTINF:-1 group-title="México" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" ,Canal 6 Multimedios Mexico
+https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+
+#EXTINF:-1 group-title="México" tvg-logo="https://graph.facebook.com/ADN40mx/picture?width=200&height=200" ,ADN40 Mexico
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 group-title="México" tvg-logo="https://graph.facebook.com/CANALONCETV/picture?width=200&height=200" ,Canal Once Mexico
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+
+#EXTINF:-1 group-title="México" tvg-logo="https://graph.facebook.com/EstrellaTVNetwork/picture?width=200&height=200" ,Estrella TV Mexico
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellagames-estrellamedia/playlist.m3u8
