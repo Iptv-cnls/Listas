@@ -94,53 +94,53 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 
 
 
-# PELÍCULAS
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" ,AXN
+# PELÍCULAS Y SERIES 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" ,AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/K0jk8p4.png", CANAL 7 JUJUY
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/K0jk8p4.png", CANAL 7 JUJUY
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/DmdBf9S.png", AYSEN TV
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/DmdBf9S.png", AYSEN TV
 https://v1.tustreaming.cl/aysentv/index.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/8Hllkpk.png", CANELATV
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/8Hllkpk.png", CANELATV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=119
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/FUrrDrb.png", CINE ROMANTICO
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/FUrrDrb.png", CINE ROMANTICO
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=656
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/bZWoDTg.png", CINE SONY
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/bZWoDTg.png", CINE SONY
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/RIUNuMQ.png", CINELIFE
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/RIUNuMQ.png", CINELIFE
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw", CINERAMA TV
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://play-lh.googleusercontent.com/RJ49IeJve4VPALBXqrqJGeAYOEoLQIZZ4zWwtJhofisng6ZYwGemZ-VXCx9ZQ-u7fw", CINERAMA TV
 https://5d00db0e0fcd5.streamlock.net/7062/7062/playlist.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="", FX
+#EXTINF:-1 group-title="Películas y series" tvg-logo="", FX
 https://streamer1.nexgen.bz/FX/index.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/Xtu85tb.png", NEO TV
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/Xtu85tb.png", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png", COSMOS TV
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png", COSMOS TV
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="", CANELA CLASICOS
+#EXTINF:-1 group-title="Películas y series" tvg-logo="", CANELA CLASICOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/Am7yMXg.png", CANAL 21 TV 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/Am7yMXg.png", CANAL 21 TV 
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/QGvfqug.png", CARACOLA TV
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/QGvfqug.png", CARACOLA TV
 https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="https://i.imgur.com/zKWFgeQ.png", ANTENA 7
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://i.imgur.com/zKWFgeQ.png", ANTENA 7
 https://ssh101.bozztv.com/ssh101/rctvhd21/chunks.m3u8
 
-#EXTINF:-1 group-title="Cine y Películas" tvg-logo="" ,CANELA CLASICOS
+#EXTINF:-1 group-title="Películas y series" tvg-logo="" ,CANELA CLASICOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 
