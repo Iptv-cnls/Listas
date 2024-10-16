@@ -364,6 +364,11 @@ https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" ,Noticias Caracol Colombia
 https://mdstrm.com/live-stream-playlist/632391734be92a791e2750e6.m3u8
 
+#EXTINF:-1 group-title="Colombia" tvg-logo="https://graph.facebook.com/NoticiasCaracol/picture?width=200&height=200" ,RCN
+https://live.sdfgnksbounce.com:8080/MTc5LjE5LjE1My40Mg==/193_.m3u8?token=m-lnQGy0017wqZ_D0kGhqg&expires=1729071066
+
+
+
 
 # MÉXICO 
 #EXTINF:-1 group-title="México" tvg-logo="https://graph.facebook.com/multimediostv/picture?width=200&height=200" ,Canal 6 Multimedios Mexico
