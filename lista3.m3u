@@ -18,6 +18,15 @@ https://tv91.hostingnuclear.com:19360/intercable/intercable.m3u8
 
 
 # INFANTIL
+
+
+
+
+
+
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F425ebc35-6dda-4d18-a271-38c957058769%2Fpitufotv_1920x1080_-_Jordan_Warkol.jpg", Pitufo TV
+https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3b2f-639ba57d3f4612cc150a5723/variant.m3u8?url=b305e4184f3de9fa6659513b81733829-f4640e5c5dd9a77f4e87c48b593f3518c11187fae0d218d8a779aadb8797dbc8a40eabf30338c461b922a77eb03942da39ca36f35c44546fb3238204316bb90e1847207088f681d2e8ec7001e2b3151788a910cd57f7f642aa84118824d137a0&x-plex-token=ASsa5opzzLPvFfy3qFwE&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=&x-plex-provider-streaming-start=1729058314
+
 #EXTINF:-1 group-title="Infantil" tvg-logo="", CANELA KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
