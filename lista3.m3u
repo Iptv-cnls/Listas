@@ -113,6 +113,12 @@ https://live-ilce.ovp-vivaro.digital/ovp-origin-abr/ngrp:6359ef999f3fb_all/playl
 
 # PELÍCULAS Y SERIES 
 
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb-2YnVkQXKW2V8t9dj8eC89pRbDsF7izobg&usqp=CAU" ,Extrema
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="Películas y series" tvg-logo="https://yt3.googleusercontent.com/eNPcHVFRBa2iFCO3Mgtg34VLmd8m_bgSEyuRNtywoLNWh09n-Kn0VchAWBJE9ZyBcF0kWi_1=s900-c-k-c0x00ffffff-no-rj" ,Wow tv
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
 #EXTINF:-1 group-title="Películas y series" tvg-logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_romance_latam_16x9.jpg" ,ROMANCE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6119&avod=1&coppa=0&is_lat=0&dnt=0&td=6&us_privacy=1YNN&did=8bac6e65a530c961dde7a3de94f200b4&ifa_type=sessionid&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&player_height=720&player_width=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&device_os=web&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&country=co&country_region=valle%20del%20cauca%20department&postal_code=760026&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web
 
