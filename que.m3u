@@ -1,0 +1,68 @@
+POLITICA
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/854/340/png-transparent-logo-canal-institucional-graphic-designer-y-40-the-deep-joy-design-text-orange-logo-thumbnail.png",CANAL INSTITUCIONAL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/23/40/png-transparent-logo-deutsche-welle-dw-tv-dw-espanol-lacrosse-talk-radio-television-blue-text-thumbnail.png",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+
+
+
+
+
+
+CRISTIANOS
+
+
+
+#EXTINF:-1 tvg-logo="https://frecuenciaf.com/img/FrecuenciaFTV.png",FRECUENCIA F TV
+https://tv.frecuenciaf.com/live/envivo.m3u8
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTszCPWELk2PhbP9MX0Swo3a-yNaibOGO8-xww7lCrUl8kp3qPcabIpdxjetYw71GUVOyTULZHSyKyiftSghABYP3M_Ii5JId4IiRa-k5oVKxlRESHxdReSU29LzKFAAKHXWB5-v7riyk/s1600/Radio-Nuevo-Tiempo-Logo1.jpg",NUEVO TIEMPO
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gospelfg.fuegosantomi.com/wp-content/uploads/2022/08/55-TV-1-1024x1024.png",55TV TELEMORISCO
+http://canal.mediaserver.com.co/live/telemorisco.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/enlace-tv-logo-683F9F308A-seeklogo.com.png",ENLACE
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P9jgTz4/c49b986afb751882bcbee57f9c9b20d7-350x210.png",RADIO SIBLIBE TV 
+https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/oasis-tv-co.png",OASIS TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+
+
+
+
+INFANTIL
+
+#EXTINF:-1 xui-id="260586" tvg-id="" tvg-name="CARTOONITO" tvg-logo="http://offshore.lat:8080/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqAPJXo0vMMbibz3suDJilSahtRtthcfj0O_JlJU9Ot3zQ.png", CARTOONITO
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQyHf3nngkvPukTbNSkgiJ12/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png",DISNEY CHANNEL 
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:21_HD.smil/manifest.m3u88
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fXs8f6a.png",NICKELODEON 
+http://185.189.225.150:85/nickelodeon/index.m3u8
+
+#EXTINF:-1 xui-id="260532" tvg-id="cartoonnetwork.mx" tvg-name="CARTOON NETWORK" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmZ8tUu9IHO_7aWsk5L-FoH15KR7d2Wc42VQ2dxgZ9XFJR88UnY1jP05odtEYLQnVPw.png", CARTOON NETWORK
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQzMk4Fve2ZwpK9vGfzokyVx/ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png",CLAN TVE
+https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.wurtlitzer.com/imagenes/categoria/animacion/anime_station.png",ANIME STATION
+https://ssh101-fl.bozztv.com/ssh101/livestreamingtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CMImqQY.png",MAGIC KIDS
+https://magicstream.ddns.net/magicstream/stream.m3u8
+
+#EXTINF:-1 xui-id="260521" tvg-id="disneychannel.co" tvg-name="DISNEY JR" tvg-logo="http://offshore.lat:8080/images/LEIDO0TYILZMib3QdPsaSAFGN1q83WZ77m3-laKosmbO0W5j9vUm4iH2Fkby4xNIGLlFtKvfrchrJRdv_tDI8Ji0xetX-zxg4qAy7e9QmQk.png" DISNEY CHANNEL
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQwyL-HB_hX7kYwZNV0zARJi/ts
+
+#EXTINF:-1 xui-id="260591" tvg-id="" tvg-name="SD | Disney Jr" tvg-logo="http://offshore.lat:8080/images/Om6hjLsYDPG-1L_qMe6thnjY_15oqQ-fp577XtzcBqAVby_i2XJmKfFSiqaG_B--bxHSXX6XtzBm9yRjg9Tj5w.png", DISNEY JR
+http://offshore.lat:8080/play/RX_gKbOaj4b_9yTZehVEbY1UrSxUbYrj4Vgr6-kjLQyMjfqHDuCOcU7NMhM3VOox/ts
