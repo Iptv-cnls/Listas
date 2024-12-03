@@ -15,3 +15,5 @@ https://tv.teleclub.xyz/club/server_1/deportes/dazn2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/daznf1.jpg" ,dazn f1
 https://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/daznf1.jpg" ,dazn f1
+https://deportes.slkdhfdhldeportes.com:8080/NjcuMjE3LjI0Ny4zNg/43_5665.ts
