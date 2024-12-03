@@ -1,4 +1,31 @@
 #EXTM3U
+
+# INFANTIL 
+
+#EXTINF:-1 group-title="INFANTIL" https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/400px-Cartoon_Network_2010_logo.svg.png" ,CARTOON NETWOK 
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10295.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/500px-Cartoonito_-_Logo_2021.svg.png" ,CARTOONITO
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10296.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/440px-2019_Disney_Channel_logo.svg.png" ,DISNEY CHANNEL
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10298.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" ,DISCOVERY KIDS 
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10301.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/500px-Disney_Jr._2024.svg.png" ,DISNEY JUNIOR 
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10297.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://image.roku.com/developer_channels/prod/685354bd84f85fe39c7ecae45018ccb60011681ba7838fd841e3f2392f4f6249.png" ,EXTREMA TV KIDS 
+https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnj0Fz5L2t13PmpkMKKhWBfOvdzcHs4QHFlQ&usqp=CAU" ,PEQUE RADIO TV 
+https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+
+
+
 # PELICULAS Y SERIE  
 #EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png?20220209213047" ,Universal cinema
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10287.m3u8
