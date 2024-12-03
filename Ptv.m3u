@@ -1,0 +1,8 @@
+#EXTM3U
+# DEPORTES 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/b31nsnn.png" ,beinsports extran
+https://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/b31nsnn.png" ,claros ports
+https://tv.teleclub.xyz/club/server_1/deportes/clarosports/index.m3u8
