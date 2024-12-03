@@ -2,6 +2,9 @@
 
 # DEPORTES
 
+#EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/b31nsnn.png?raw=true" group-title="Deportes",Bein Sports 
+https://github.com/Iptv-cnls/Listas/blob/2648143da4479561d666ed0391d04aa06acd8263/sd.m3u
+
 #EXTINF:-1 tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/b31nsnn.png?raw=true" group-title="Deportes",Bein Sports Extra Ñ
 http://tv.teleclub.xyz/club/server_1/deportes/beinsportsextran/index.m3u8
 
