@@ -89,6 +89,18 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10288.m3u8
 
 # DEPORTES 
 
+#EXTINF:-1 group-title="DEPORTES" https://librefutbol.su/wp-content/uploads/2022/12/DirecTV_Sports.png" ,DIRECTV SPORTS
+https://cdn8.en-vivo.info/hotflix/dsports/index.m3u8?token=978ce90a4a0f1367703e0dd943f88267d97581b0-4ff65ff9aa9f9738ff89a8ff245b8482-1733274648-1733263848&remote=67.217.247.36
+
+#EXTINF:-1 group-title="DEPORTES" https://librefutbol.su/wp-content/uploads/2022/12/TNT_Sports-e1671628894478.png" ,TNT SPORTS 
+https://cdn8.en-vivo.info/hotflix/tntsports/index.m3u8?token=59e58402271b7a71533217e4a68171b42a4d16b0-e77175f25bffcbae32d84f29b3b2b678-1733274874-1733264074&remote=67.217.247.36
+
+#EXTINF:-1 group-title="DEPORTES" https://librefutbol.su/wp-content/uploads/2022/12/ESPN_Premium-1-e1671629245648.png" ,ESPN PREMIUM 
+https://cdn8.en-vivo.info/hotflix/espnpremium/index.m3u8?token=291425c588a76b908243a34cbbaa40cf6efa4ff6-9bbbd6252c0d1676ce094253680f1488-1733275066-1733264266&remote=67.217.247.36
+
+#EXTINF:-1 group-title="DEPORTES" https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg" ,TIGO SPORTS 
+https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10246.m3u8
+
 #EXTINF:-1 group-title="DEPORTES" https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" ,TIGO SPORTS GUATEMALA 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10246.m3u8
 
