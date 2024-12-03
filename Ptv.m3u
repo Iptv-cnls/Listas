@@ -71,3 +71,30 @@ http://tv.teleclub.xyz/club/server_1/deportes/foxsports2mx/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports3mx.png?raw=true" ,fox sports 3 mx
 http://tv.teleclub.xyz/club/server_1/deportes/foxsports3mx/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/foxpr.png" ,fox sports premium mx
+http://tv.teleclub.xyz/club/server_1/deportes/foxsportspremiummx/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/gltv.png" ,goltv
+http://tv.teleclub.xyz/club/server_1/deportes/goltv/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/latest.png" ,l1 max
+http://tv.teleclub.xyz/club/server_1/deportes/l1max/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/liga1max.png" ,liga1max
+http://tv.teleclub.xyz/club/server_1/deportes/liga1max/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/nbatv.png" ,nba
+http://tv.teleclub.xyz/club/server_1/deportes/nba/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/tudnvix.jpg" ,tudn vix plus
+http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/tycspots.png" ,tycsports
+http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/winspots.png" ,wins ports
+http://tv.teleclub.xyz/club/server_3/deportes/winsports/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/wnpls.png" ,win sports plus
+http://tv.teleclub.xyz/club/server_1/deportes/winsportsplus/index.m3u8
