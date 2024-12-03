@@ -12,8 +12,38 @@ https://tv.teleclub.xyz/club/server_1/deportes/dazn1/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/dazn2.png" ,dazn 2
 https://tv.teleclub.xyz/club/server_1/deportes/dazn2/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/daznf1.jpg" ,dazn f1
-https://tv.teleclub.xyz/club/server_1/deportes/daznf1/index.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1max.png?raw=true" ,dazn la liga
+https://tv.teleclub.xyz/club/server_1/deportes/daznlaliga/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/daznf1.jpg" ,dazn f1
-https://deportes.slkdhfdhldeportes.com:8080/NjcuMjE3LjI0Ny4zNg/43_5665.ts
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/liga1max.png?raw=true" ,dazn moto Gp
+http://tv.teleclub.xyz/club/server_1/deportes/daznmotogp/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs1.png?raw=true" ,directv sports
+http://tv.teleclub.xyz/club/server_1/deportes/directvsports/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs2.png?raw=true" ,directv sports 2
+http://tv.teleclub.xyz/club/server_1/deportes/directvsports2/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/dtvs3.png?raw=true" ,directv sports plus
+http://tv.teleclub.xyz/club/server_1/deportes/directvsportsplus/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espnn.png" ,espn 1
+http://tv.teleclub.xyz/club/server_1/deportes/espn1/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espn2n.png" ,espn 2
+http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espn3n.png" ,espn 3
+http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espn4n.png" ,espn 4
+http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espn5n.png" ,espn 5
+http://tv.teleclub.xyz/club/server_1/deportes/espn5/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espn6n.png" ,espn 6
+http://tv.teleclub.xyz/club/server_1/deportes/espn6/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espn7n.png" ,espn 7
+http://tv.teleclub.xyz/club/server_1/deportes/espn7/index.m3u8
