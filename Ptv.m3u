@@ -47,3 +47,27 @@ http://tv.teleclub.xyz/club/server_1/deportes/espn6/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espn7.png" ,espn 7
 http://tv.teleclub.xyz/club/server_1/deportes/espn7/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/espnpr.png" ,espn premium
+http://tv.teleclub.xyz/club/server_1/deportes/espnpremium/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/fxdpots.png" ,fox deportes
+http://tv.teleclub.xyz/club/server_1/deportes/foxdeportes/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports.png?raw=true" ,foxs ports 1
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports1/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/foxsports2.png" ,foxs ports 2
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports2/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/foxsports3.png" ,fox sports 3
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports3/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsportsmx.png?raw=true" ,fox sports 1 mx
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports1mx/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports2mx.png?raw=true" ,fox sports 1 mx
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports2mx/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/blob/main/foxsports3mx.png?raw=true" ,fox sports 3 mx
+http://tv.teleclub.xyz/club/server_1/deportes/foxsports3mx/index.m3u8
