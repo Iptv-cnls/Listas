@@ -36,7 +36,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/espn2/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espn3n.png" ,espn 3
 http://tv.teleclub.xyz/club/server_1/deportes/espn3/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espn4.png" ,espn 4
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/espn4ab.png" ,espn 4
 http://tv.teleclub.xyz/club/server_1/deportes/espn4/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/espn5.png" ,espn 5
@@ -90,7 +90,7 @@ http://tv.teleclub.xyz/club/server_1/deportes/nba/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/tudnvix.jpg" ,tudn vix plus
 http://tv.teleclub.xyz/club/server_1/deportes/tudnvixplus/index.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/tycspots.png" ,tycsports
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://raw.githubusercontent.com/teleclubxyz/teleclub/refs/heads/main/tycspots.png" ,tyc sports
 http://tv.teleclub.xyz/club/server_1/deportes/tycsports/index.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://github.com/teleclubxyz/teleclub/raw/refs/heads/main/winspots.png" ,wins ports
