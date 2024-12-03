@@ -66,7 +66,7 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10287.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://www.logo.wine/a/logo/HBO_Family_(Asian_TV_channel)/HBO_Family_(Asian_TV_channel)-Logo.wine.svg" ,HBO FAMILY
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10282.m3u8
 
-#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE5q_sYuVeQFJssef35EGgNkeznqMbrywG7g&s" ,SONY CHANNEL
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sony_Channel_LA_2023.png" ,SONY CHANNEL
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10283.m3u8
 
 
@@ -89,11 +89,11 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10288.m3u8
 
 # DEPORTES 
 
-#EXTINF:-1 group-title="DEPORTES" https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg" ,TIGO SPORTS GUATEMALA 
+#EXTINF:-1 group-title="DEPORTES" https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" ,TIGO SPORTS GUATEMALA 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10246.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg" ,TIGO SPORTS PANAMÁ 
+#EXTINF:-1 group-title="DEPORTES" https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" ,TIGO SPORTS PANAMÁ 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10247.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" https://tvlibre.org/img/tyc.webp" ,TYC SPORTS 
+#EXTINF:-1 group-title="DEPORTES" https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/400px-TyC_Sports_logo.svg.png" ,TYC SPORTS 
 https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
