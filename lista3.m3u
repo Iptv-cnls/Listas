@@ -100,8 +100,23 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 
 # DEPORTES 
 
+#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/gol_peru_7167cd54dd.webp" ,GOLPERU
+https://cxvpy2s.la10tv.com/lb/golperu/index.m3u8?token=019dc69104f65b2cdb8c93679fd17eb1996c9772-2d-1733407069-1733371069
+
+#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/liga_1_max_8d490f8b2e.webp" ,LIGA1MAX
+https://c3bvcnrz.la10tv.com/lb/liga1max/index.m3u8?token=75d005f0f610dd66f0cc6500253f3a576d1e2601-e3-1733407237-1733371237
+
+#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/movistar_deportes_2ca3b42a10.webp" ,MOVISTAR DEPORTES 
+https://z29vzc.la10tv.com/lb/movistar/index.m3u8?token=55564918d4d297f7befb5ae09c89944d21a6e757-d3-1733407340-1733371340
+
 #EXTINF:-1 group-title="DEPORTES" https://librefutbol.su/wp-content/uploads/2022/12/DirecTV_Sports.png" ,DIRECTV SPORTS
 https://z29vzc.la10tv.com/lb/dsports/index.m3u8?token=e1cac2340b13c6d55b34a4bfe71851353d9833ba-29-1733405423-1733369423
+
+#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/dsports_2_3481b3d20c.webp" ,DIRECTV SPORTS  2 
+https://cxvpy2s.la10tv.com/lb/dsports2/index.m3u8?token=b4bf0e7101fb6e2b647dddd351218d77d58ffe84-bf-1733408593-1733372593
+
+#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/dsports_plus_e24f78b7c0.webp" ,DIRECTV SPORTS  +
+https://yxdlc29tzq.la10tv.com/lb/dsportsplus/index.m3u8?token=eefc235f26558ca6eda85ec71e1bf11c14702fbb-84-1733408679-1733372679
 
 #EXTINF:-1 group-title="DEPORTES" https://librefutbol.su/wp-content/uploads/2022/12/TNT_Sports-e1671628894478.png" ,TNT SPORTS 
 https://cxvpy2s.la10tv.com/lb/tntsports/index.m3u8?token=d268d1c24065a4dfcf7e3ed768e2b0781887d4cd-9a-1733404910-1733368910
