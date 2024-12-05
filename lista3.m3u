@@ -34,6 +34,16 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 
 # PELICULAS Y SERIE  
+
+#EXTINF:-1 group-title="PELICULAS Y SERIE" https://gavog.com/images/span/bom-cine.webp" ,CINE
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+
+#EXTINF:-1 group-title="PELICULAS Y SERIE" https://i0.https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg" ,PARAMOUNT NETWOK 
+https://tvnoov.com/fadoo/paramountnetwork.m3u8
+
+#EXTINF:-1 group-title="PELICULAS Y SERIE" https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" ,RAKUTEN TV
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
+
 #EXTINF:-1 group-title="PELICULAS Y SERIE" https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Accio%CC%81n-en-directo-Online.png?resize=696%2C392&ssl=1" ,RUNTIME ACCIÓN 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
@@ -70,6 +80,11 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10282.m3u8
 #EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sony_Channel_LA_2023.png" ,SONY CHANNEL
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10283.m3u8
 
+
+
+# DOCUMENTALES 
+#EXTINF:-1 group-title="DOCUMENTALES" https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" ,NATIONAL GEOGRAPHIC
+https://tvnoov.com/fadoo/dmax.m3u8
 
 
 
@@ -161,9 +176,3 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10247.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/400px-TyC_Sports_logo.svg.png" ,TYC SPORTS 
 https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
-
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/fox_sports_1_7dbc294272.webp" ,FOX SPORTS 
-https://bwfrzq.la10tv.com/lb/foxsports/index.m3u8?token=021e1c81b5a9560f03ca332060fc6681a5d2cf99-5f-1733409392-1733373392
-
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/fox_sports_2_64ae4cc2b7.webp" ,FOX SPORTS 2
-https://zw5k.la10tv.com/lb/foxsports2/index.m3u8?token=41e6325b2815d28264f41e8e35ad44ff355bbc37-e3-1733410256-1733374256
