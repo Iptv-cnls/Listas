@@ -107,6 +107,9 @@ https://tvnoov.com/fadoo/dmax.m3u8
 
 # ENTRETENIMIENTO 
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" https://gavog.com/images/span/ten-en-directo.webp" TEN
+https://tvnoov.com/fadoo/ten.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" https://gavog.com/images/span/canal-costa.webp" ,CANAL COSTA
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/.m3u8
 
@@ -125,6 +128,12 @@ https://746473257.cdnborder.net:8443/hls/gbgzzh.m3u8?s=PaUNh1riykeM_EakQEcUtA&e=
 #EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg" ,SEÑAL COLOMBIA  
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
+
+
+# NOTÍCIAS - INFORMATIVO 
+
+#EXTINF:-1 group-title="NOTÍCIAS - INFORMATIVO" https://gavog.com/images/span/24h.webp" ,24H
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 
 
 
