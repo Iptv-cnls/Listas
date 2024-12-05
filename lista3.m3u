@@ -3,8 +3,12 @@
 
 # NOVELAS
 
+
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://pbs.twimg.com/profile_images/1673379255953117184/C7ouLzGO_400x400.jpg" ,TNT NOVELAS
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10271.m3u8
+
+
+
 
 
 # INFANTIL 
@@ -17,6 +21,9 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10296.m3u8
 
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/440px-2019_Disney_Channel_logo.svg.png" ,DISNEY CHANNEL
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10298.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/440px-2019_Disney_Channel_logo.svg.png" ,DISNEY CHANNEL ESPAÑA
+https://tvnoov.com/fadoo/disneychannel.m3u8
 
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" ,DISCOVERY KIDS 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10301.m3u8
@@ -34,6 +41,9 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 
 # PELICULAS Y SERIE  
+
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://gavog.com/images/span/bbcdramaa.webp" ,BCC DRAMA
+https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 
 #EXTINF:-1 group-title="PELICULAS Y SERIE" https://gavog.com/images/span/bom-cine.webp" ,CINE
 https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
@@ -82,6 +92,12 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10283.m3u8
 
 
 
+
+# TOP
+#EXTINF:-1 group-title="TOP" https://gavog.com/images/span/canal-la-8-mediterraneo.png" ,8 MEDITERRÁNEO
+https://streaming004.gestec-video.com/hls/8TV.m3u8
+
+
 # DOCUMENTALES 
 #EXTINF:-1 group-title="DOCUMENTALES" https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" ,NATIONAL GEOGRAPHIC
 https://tvnoov.com/fadoo/dmax.m3u8
@@ -90,6 +106,9 @@ https://tvnoov.com/fadoo/dmax.m3u8
 
 
 # ENTRETENIMIENTO 
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" https://gavog.com/images/span/canal-costa.webp" ,CANAL COSTA
+https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/800px-Telemundo_logo_2018.svg.png" ,TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
