@@ -34,7 +34,7 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 
 # PELICULAS Y SERIE  
-#EXTINF:-1 group-title="PELICULAS Y SERIE" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJNhKK1hwH_5UTbn1ndUuvSVDeGwkz2UsT_w&usqp=CAU" ,RUNTIME ACCIÓN 
+#EXTINF:-1 group-title="PELICULAS Y SERIE" https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Accio%CC%81n-en-directo-Online.png?resize=696%2C392&ssl=1" ,RUNTIME ACCIÓN 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 #EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png?20220209213047" ,Universal cinema
@@ -76,19 +76,19 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10283.m3u8
 
 # ENTRETENIMIENTO 
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://tvlibre.org/img/telemundo.png" ,TELEMUNDO
+#EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/800px-Telemundo_logo_2018.svg.png" ,TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" ,UNIVERSAL COMEDI 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10288.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://tvcanaleshd.com/wp-content/uploads/2018/04/miloo.png" ,RCN
+#EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/en/d/dd/CanalRCNTV.svg" ,RCN
 https://746473257.cdnborder.net:8443/hls/m6i9wc3g2y6udi.m3u8?s=2mkVD-aapIJsaCVF8pW7OQ&e=1733286637
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://tvcanaleshd.com/wp-content/uploads/2018/07/caracol13-720x360.png" ,CARACOL 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" ,CARACOL 
 https://746473257.cdnborder.net:8443/hls/gbgzzh.m3u8?s=PaUNh1riykeM_EakQEcUtA&e=1733286872
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://tvcanaleshd.com/wp-content/uploads/2018/07/se%C3%B1al-colombia11-720x384.png" ,SEÑAL COLOMBIA  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg" ,SEÑAL COLOMBIA  
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 
@@ -102,7 +102,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 #EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/gol_peru_7167cd54dd.webp" ,GOLPERU
 https://cxvpy2s.la10tv.com/lb/golperu/index.m3u8?token=019dc69104f65b2cdb8c93679fd17eb1996c9772-2d-1733407069-1733371069
 
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/liga_1_max_8d490f8b2e.webp" ,LIGA1MAX
+#EXTINF:-1 group-title="DEPORTES" https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifODh599uJaxDqlZ7dBR_eTV9Ozi6hrPdxvY-gdwjSub9Hl7gSfm0cnfBWUXU_P5-mleWZd-f8VuBgF_Z4V-m1cX2THfsnwibUrsIqQeznk71Kg1d4nu_9ku6Xj4OPNn_07TrVkNHiumQ/s1600/Liga1PeruW.png" ,LIGA 1 MAX
 https://c3bvcnrz.la10tv.com/lb/liga1max/index.m3u8?token=75d005f0f610dd66f0cc6500253f3a576d1e2601-e3-1733407237-1733371237
 
 #EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/movistar_deportes_2ca3b42a10.webp" ,MOVISTAR DEPORTES 
