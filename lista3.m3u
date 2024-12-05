@@ -99,6 +99,10 @@ https://streaming004.gestec-video.com/hls/8TV.m3u8
 
 
 # DOCUMENTALES 
+
+#EXTINF:-1 group-title="DOCUMENTALES" https://gavog.com/images/span/dmax.webp" ,D MAX
+https://tvnoov.com/fadoo/dmax.m3u8
+
 #EXTINF:-1 group-title="DOCUMENTALES" https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" ,NATIONAL GEOGRAPHIC
 https://tvnoov.com/fadoo/dmax.m3u8
 
