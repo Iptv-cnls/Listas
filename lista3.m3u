@@ -28,6 +28,12 @@ https://tvnoov.com/fadoo/disneychannel.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/215px-Discovery_Kids_Logo_2021-Presente.webp.png" ,DISCOVERY KIDS 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10301.m3u8
 
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://iteleflix.com/archivos/Logo-TRT-Cocuk-1.png" ,TRT COCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://www.w3.org/2000/svg'%20viewBox='0%200%20400%20225'%3E%3C/svg%3E" ,TVG XABARIN
+https://crtvg-infantil-schlive.flumotion.cloud/crtvglive/smil:channel5PRG.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Disney_Jr._2024.svg/500px-Disney_Jr._2024.svg.png" ,DISNEY JUNIOR 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10297.m3u8
 
