@@ -18,7 +18,7 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10271.m3u8
 
 # INFANTIL 
 
-#EXTINF:-1 group-title="INFANTIL" httphttps://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" ,CARTOON NETWOK 
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="httphttps://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" ,CARTOON NETWOK 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10295.m3u8
 
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/500px-Cartoonito_-_Logo_2021.svg.png" ,CARTOONITO
@@ -54,13 +54,13 @@ https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 # PELICULAS Y SERIE  
 
 
-#EXTINF:-1 group-title="PELICULAS Y SERIE" https://i0.https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg" ,PARAMOUNT NETWOK 
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://i0.https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg" ,PARAMOUNT NETWOK 
 https://tvnoov.com/fadoo/paramountnetwork.m3u8
 
-#EXTINF:-1 group-title="PELICULAS Y SERIE" https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" ,RAKUTEN TV
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Rakuten_TV_logo.svg" ,RAKUTEN TV
 https://3ed8837c27bf41dabe8e2627be2e57e6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6196/master.m3u8
 
-#EXTINF:-1 group-title="PELICULAS Y SERIE" https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Accio%CC%81n-en-directo-Online.png?resize=696%2C392&ssl=1" ,RUNTIME ACCIÓN 
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/10/Runtime-Accio%CC%81n-en-directo-Online.png?resize=696%2C392&ssl=1" ,RUNTIME ACCIÓN 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
 
 #EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Universal_Cinema_2021.png?20220209213047" ,UNIVERSAL CINEMA
@@ -95,6 +95,9 @@ https://anonmedia.eu/hboxtreme/index.m3u8
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10269.m3u8
 
 
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https:" ,CINEMA 
+https://azt-cin.otteravision.com/azt/cin/cin_720.m3u8
+
 #EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdbhIGn_J72NHmHnXgEj6ZMNWsnObzjY1L_g&s" ,TCM
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10290.m3u8
 
@@ -114,61 +117,76 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10283.m3u8
 
 
 # TOP
-#EXTINF:-1 group-title="TOP" https://gavog.com/images/span/canal-la-8-mediterraneo.png" ,8 MEDITERRÁNEO
+#EXTINF:-1 group-title="TOP" tvg-logo="https://gavog.com/images/span/canal-la-8-mediterraneo.png" ,8 MEDITERRÁNEO
 https://streaming004.gestec-video.com/hls/8TV.m3u8
+
+#EXTINF:-1 group-title="TOP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOW3EKitJjVBVXKSHxsH-oNF_E30hPIRVvMDnaDMb4g&s" ,AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+#EXTINF:-1 group-title="TOP" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcOW3EKitJjVBVXKSHxsH-oNF_E30hPIRVvMDnaDMb4g&s" ,AZTECA INTERNACIONAL
+https://azt-mun.otteravision.com/azt/mun/mun_1080p.m3u8
+
+
+
 
 
 # CHILE 
 
-#EXTINF:-1 group-title="CHILE" https://tvlibre.org/img/red.svg" ,LA RED
+#EXTINF:-1 group-title="CHILE" tvg-logo="https://tvlibre.org/img/red.svg" ,LA RED
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 
 
 # DOCUMENTALES 
 
-#EXTINF:-1 group-title="DOCUMENTALES" https://gavog.com/images/span/dmax.webp" ,D MAX
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://gavog.com/images/span/dmax.webp" ,D MAX
 https://tvnoov.com/fadoo/dmax.m3u8
 
-#EXTINF:-1 group-title="DOCUMENTALES" https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" ,NATIONAL GEOGRAPHIC
+#EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Natgeologo.svg" ,NATIONAL GEOGRAPHIC
 https://tvnoov.com/fadoo/dmax.m3u8
 
 
 
 
 # ENTRETENIMIENTO 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://gavog.com/images/span/Hola-Play-en-directo.webp" HOLA PLAY
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://gavog.com/images/span/Hola-Play-en-directo.webp" HOLA PLAY
 https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://gavog.com/images/span/ten-en-directo.webp" TEN
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://gavog.com/images/span/ten-en-directo.webp" TEN
 https://tvnoov.com/fadoo/ten.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://gavog.com/images/span/canal-costa.webp" ,CANAL COSTA
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://gavog.com/images/span/canal-costa.webp" ,CANAL COSTA
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/800px-Telemundo_logo_2018.svg.png" ,TELEMUNDO
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/800px-Telemundo_logo_2018.svg.png" ,TELEMUNDO
 https://cdn.igocast.com/wkrp_channel1_hls/wkrp_channel1_master.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" ,UNIVERSAL COMEDI 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10288.m3u8
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/en/d/dd/CanalRCNTV.svg" ,RCN EXTRA
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/CanalRCNTV.svg" ,RCN EXTRA
 https://746473257.cdnborder.net:8443/hls/m6i9wc3g2y6udi.m3u8?s=2mkVD-aapIJsaCVF8pW7OQ&e=1733286637
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/en/d/dd/CanalRCNTV.svg" ,RCN
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dd/CanalRCNTV.svg" ,RCN
 https://746473257.cdnborder.net:8443/hls/m6i9wc3g2y6udi.m3u8?s=2mkVD-aapIJsaCVF8pW7OQ&e=1733286637
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" ,CARACOL 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/29/Caracol_Televisi%C3%B3n_logo_2023.png" ,CARACOL 
 https://746473257.cdnborder.net:8443/hls/gbgzzh.m3u8?s=PaUNh1riykeM_EakQEcUtA&e=1733286872
 
-#EXTINF:-1 group-title="ENTRETENIMIENTO" https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg" ,SEÑAL COLOMBIA  
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg" ,SEÑAL COLOMBIA  
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
 
 
 # NOTÍCIAS - INFORMATIVO 
 
-#EXTINF:-1 group-title="NOTÍCIAS - INFORMATIVO" https://gavog.com/images/span/24h.webp" ,24H
+#EXTINF:-1 group-title="NOTÍCIAS - INFORMATIVO" tvg-logo="https://gavog.com/images/span/24h.webp" ,24H
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+
+#EXTINF:-1 group-title="NOTÍCIAS - INFORMATIVO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwD4dRaJXjL68cIqF16R3uuwFrobionHpS_ACXrVOBnQ&s" ,EURO NEWS
+https://euronews-euronews-spanish-2-us.plex.wurl.tv/playlist.m3u8?network_id=2577
+
+#EXTINF:-1 group-title="NOTÍCIAS - INFORMATIVO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ppcFevv2Az0ly_I27JsBjEeGKChganAY1QveIG2S5Q&s" ,DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 
 
@@ -176,52 +194,52 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
 # DEPORTES 
 
 
-#EXTINF:-1 group-title="DEPORTES" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZEpP0B9K1cButCyXmQUDqh7Z9DlXYqkZPw&usqp=CAU,BEIN SPORTS XTRA
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZEpP0B9K1cButCyXmQUDqh7Z9DlXYqkZPw&usqp=CAU,BEIN SPORTS XTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/3ed5fbbb-8180-4f59-93e9-ae581ee773fe/2.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/gol_peru_7167cd54dd.webp" ,GOLPERU
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/gol_peru_7167cd54dd.webp" ,GOLPERU
 https://c3bvcnrz.la10tv.com/lb/golperu/index.m3u8?token=a04717e399d7789ff44264ce2460bde2e3a4eed3-b2-1733512134-1733476134
 
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/movistar_deportes_2ca3b42a10.webp" ,MOVISTAR DEPORTES 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/movistar_deportes_2ca3b42a10.webp" ,MOVISTAR DEPORTES 
 https://yxdlc29tzq.la10tv.com/lb/movistar/index.m3u8?token=f02f5cbbabdd20190d999e3b30107e0430357d49-0e-1733512094-1733476094
 
-#EXTINF:-1 group-title="DEPORTES" https://librefutbol.su/wp-content/uploads/2022/12/DirecTV_Sports.png" ,DIRECTV SPORTS
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/DirecTV_Sports.png" ,DIRECTV SPORTS
 https://c3bvcnrz.la10tv.com/lb/dsports/index.m3u8?token=2dd2069c124c6a9c5aeb9fb0a3c24bf0391b2e72-4d-1733512239-1733476239
 
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/dsports_plus_e24f78b7c0.webp" ,DIRECTV SPORTS +
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/dsports_plus_e24f78b7c0.webp" ,DIRECTV SPORTS +
 https://cxvpy2s.la10tv.com/lb/dsportsplus/index.m3u8?token=b5da1af35dd7050a0bcd5bdc6e0aa8bf5343e566-be-1733512318-1733476318
 
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/espn_16110aaa3a.webp" ,ESPN  
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_16110aaa3a.webp" ,ESPN  
 https://yxdlc29tzq.la10tv.com/lb/espn/index.m3u8?token=572b34cc332a6de19943b9135796d487a70b6a12-25-1733512451-1733476451
 
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/espn_2_82441267e9.webp" ,ESPN  2
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_2_82441267e9.webp" ,ESPN  2
 https://bwfrzq.la10tv.com/lb/espn2/index.m3u8?token=d5dc65fe6e723c6b1455f5a7e7206053026f6cca-52-1733512498-1733476498
 
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/espn_3_0f4a5444d4.webp" ,ESPN  3
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_3_0f4a5444d4.webp" ,ESPN  3
 https://zw5k.la10tv.com/lb/espn3/index.m3u8?token=5274316b234b2f33c1c1c99fea23804ce9de6aee-c6-1733512546-1733476546
 
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/espn_premium_b5191e3af1.webp" ,ESPN  PREMIUM 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_premium_b5191e3af1.webp" ,ESPN  PREMIUM 
 https://c3bvcnrz.la10tv.com/lb/espnpremium/index.m3u8?token=97301e51ac3ef831e4b359317b0d3d399517f28c-df-1733512598-1733476598
 
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/win_sports_1496fdfe8d.webp" ,WIN SPORTS  
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/win_sports_1496fdfe8d.webp" ,WIN SPORTS  
 https://bwfrzq.la10tv.com/lb/golperu/index.m3u8?token=da92fe7b6c046ca0940a0e339a3c992149835f1d-03-1733414247-1733378247
 
-#EXTINF:-1 group-title="DEPORTES" https://img.futbollibrehd.pe/uploads/fox_sports_1_7dbc294272.webp" ,FOX SPORTS 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/fox_sports_1_7dbc294272.webp" ,FOX SPORTS 
 https://c3bvcnrz.la10tv.com/lb/golperu/index.m3u8?token=56eb916c540dfd0c96ddbbde6dc72f821daf537f-78-1733512669-1733476669
 
-#EXTINF:-1 group-title="DEPORTES" https://librefutbol.su/wp-content/uploads/2022/12/TNT_Sports-e1671628894478.png" ,TNT SPORTS 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/TNT_Sports-e1671628894478.png" ,TNT SPORTS 
 https://cxvpy2s.la10tv.com/lb/tntsports/index.m3u8?token=d268d1c24065a4dfcf7e3ed768e2b0781887d4cd-9a-1733404910-1733368910
 
-#EXTINF:-1 group-title="DEPORTES" https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg" ,TIGO SPORTS 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg" ,TIGO SPORTS 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10246.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" ,TIGO SPORTS GUATEMALA 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" ,TIGO SPORTS GUATEMALA 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10246.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" ,TIGO SPORTS PANAMÁ 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" ,TIGO SPORTS PANAMÁ 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10247.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/400px-TyC_Sports_logo.svg.png" ,TYC SPORTS 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/400px-TyC_Sports_logo.svg.png" ,TYC SPORTS 
 https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
 
 
@@ -229,6 +247,6 @@ https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m
 
 # VENEZUELA 
 
-#EXTINF:-1 group-title="VENEZUELA" https://iteleflix.com/archivos/Logo-TeleSUR-Venezuela-1.jpeg" ,TELE SUR
+#EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://iteleflix.com/archivos/Logo-TeleSUR-Venezuela-1.jpeg" ,TELE SUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
