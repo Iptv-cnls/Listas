@@ -216,9 +216,6 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlZEpP0B9K1cButCyXmQUDqh7Z9DlXYqkZPw&usqp=CAU,BEIN SPORTS XTRA
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/3ed5fbbb-8180-4f59-93e9-ae581ee773fe/2.m3u8
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/gol_peru_7167cd54dd.webp" ,GOLPERU
-https://c3bvcnrz.la10tv.com/lb/golperu/index.m3u8?token=a04717e399d7789ff44264ce2460bde2e3a4eed3-b2-1733512134-1733476134
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/movistar_deportes_2ca3b42a10.webp" ,MOVISTAR DEPORTES 
 https://zw5k.la10tv.com/lb/golperu/index.m3u8?token=7877e48a22b975aa9d1acc8280f77fbdb4618c7d-79-1733550229-1733514229
 
@@ -237,14 +234,8 @@ https://z29vzc.la10tv.com/lb/espn3/index.m3u8?token=fe6e9c4527dd171ca9a99bc03f8f
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/espn_premium_b5191e3af1.webp" ,ESPN  PREMIUM 
 https://yxdlc29tzq.la10tv.com/lb/espnpremium/index.m3u8?token=2e5d18f5c27b6f8bdcd0b76abaa088c5763fde6c-44-1733550189-1733514189
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/win_sports_1496fdfe8d.webp" ,WIN SPORTS  
-https://c3bvcnrz.la10tv.com/lb/golperu/index.m3u8?token=56eb916c540dfd0c96ddbbde6dc72f821daf537f-78-1733512669-1733476669
-
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://img.futbollibrehd.pe/uploads/fox_sports_1_7dbc294272.webp" ,FOX SPORTS 
 https://c3bvcnrz.la10tv.com/lb/golperu/index.m3u8?token=56eb916c540dfd0c96ddbbde6dc72f821daf537f-78-1733512669-1733476669
-
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://librefutbol.su/wp-content/uploads/2022/12/TNT_Sports-e1671628894478.png" ,TNT SPORTS 
-https://vadp.pricesaskeloadsc.com/global/tnt_chile/index.m3u8?token=8c9f7485d822a3f29e9d3039e74c638bf4f6a07b-5a-1733550495-1733514495
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://play-lh.googleusercontent.com/r_ifVvwIE6-WB9zFYk4a3H5ek0dtC5Qdq-txbeZNI_KVuQzGviPcjPICVlR2nqUlzg" ,TIGO SPORTS 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10246.m3u8
