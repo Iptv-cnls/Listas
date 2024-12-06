@@ -108,6 +108,8 @@ https://tvnoov.com/fadoo/dmax.m3u8
 
 
 # ENTRETENIMIENTO 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" https://gavog.com/images/span/Hola-Play-en-directo.webp" HOLA PLAY
+https://rakuten-hola-2-es.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="ENTRETENIMIENTO" https://gavog.com/images/span/ten-en-directo.webp" TEN
 https://tvnoov.com/fadoo/ten.m3u8
