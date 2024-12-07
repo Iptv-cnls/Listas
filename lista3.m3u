@@ -212,6 +212,9 @@ https://nbcu-telemundotexas-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/800px-Telemundo_logo_2018.svg.png" ,TELEMUNDO CALIFORNIA 
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/52745983b1a2da7414ed537d2511df9e.webp" ,TELEMUNDO NUEVA INGLATERRA 
+https://nbcu-telemundonortheast-firetv.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" ,UNIVERSAL COMEDI 
 https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10288.m3u8
 
