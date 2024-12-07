@@ -221,6 +221,11 @@ https://746473257.cdnborder.net:8443/hls/gbgzzh.m3u8?s=PaUNh1riykeM_EakQEcUtA&e=
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Se%C3%B1al_Colombia_logo.svg" ,SEÑAL COLOMBIA  
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a92c2108c2636d87761afe4902bfe3d4.webp" ,CANELA TV
+https://cnm-ctsa.otteravision.com/cnm/ctsa/ctsa.m3u8
+
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/93afff6e61610492622e115373367f15.webp" ,MULTIVISION
+https://panel.host-live.com/825000/825000/playlist.m3u8
 
 
 
