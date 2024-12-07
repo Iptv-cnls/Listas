@@ -9,8 +9,43 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Enlace_Televisi%C3%B3n_logo.svg" ,ENLACE 
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 
-#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Enlace_Televisi%C3%B3n_logo.svg" ,OASIS TV
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNZSCkm88MpWw6jjaGjqnAKicvogBl4yBdPBtLomExfd6jjUm3" ,OASIS TV
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8c946ae92a720ec528070cc58dcaa5a7.webp" ,CDM INTERNACIONAL 
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/69106ca7b0cf264cfa244575f74b451b.webp" ,EXTREMA TV
+https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b76700d635ef6272ba8cc8e9c7733f59.webp" ,ABN
+https://s2.abntelevision.com/avivamientoabr/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/42de800d69d78117b03852bac7ae3818.webp" ,3ABN KIDS 
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/993729345b0b0258453df34b34cec2ae.webp" ,ASOMAVISION
+https://asomatv.duckdns.org/livestream/stream.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/9df45c21ce1d67a2800b19969c8c80cc.webp" ,CIELO
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/19b1a2b9cf99084c8aa02329621840dd.webp" ,CANAL 27
+https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/28cfc242a64fb8e4ccd47c3488e69f2a.webp" ,SPIRIT TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d5e881c97b312df382164b7b7e5f5509.webp" ,KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d5e881c97b312df382164b7b7e5f5509.webp" ,KURIAKOS CINE
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+
+
+
+
+
 
 
 # NOVELAS
