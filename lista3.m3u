@@ -62,6 +62,12 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10271.m3u8
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pasiones_Tv_logo.svg" ,PASIONES
 https://4ff77b38.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Q2FuZWxhVFZfVG9kb0RyYW1hX0hMUw/playlist.m3u8
 
+#EXTINF:-1 group-title="NOVELAS" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/da77b40cc9acf3c1b8b5642838906de4.webp" ,NOVELAS INOLVIDABLES 
+https://ov.ottera.tv/channels/cnm_niv/master.m3u8
+
+
+
+
 
 # INFANTIL 
 
@@ -95,11 +101,36 @@ https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/playlist.m3u8
 #EXTINF:-1 group-title="INFANTIL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnj0Fz5L2t13PmpkMKKhWBfOvdzcHs4QHFlQ&usqp=CAU" ,PEQUE RADIO TV 
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
+#EXTINF:-1 group-title="INFANTIL" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/eb23903cf0a778ea0a667ba01a9a8d05.webp" ,CINE KIDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506
+
+
+
+
 
 
 
 # PELICULAS Y SERIE  
 
+
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8d518c7a8b190f28137df6e531fe842e.webp" ,TELE CLÁSICA  
+https://ssh101-fl.bozztv.com/ssh101/teleclasik/index.m3u8
+
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/efea896119450ed5bdc725f270cf31ec.webp" ,CANELA CINEMA 
+https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
+
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/bb42115ec41fea4ac36dec93b294d2e2.webp" ,RUNTIME ESPAÑOL 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
+
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/586386166b8d99d95d88a028fa229159.webp" ,RUNTIME CLÁSICO  
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3053
+
+
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8733d77d3a29296b066646316f579c48.webp" ,GRJNGO
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8f667db78acfeca3e792be86616ee96f.webp" ,CINE FRIKI
+https://d2jqgm8hyia1n3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o8hl8d0bx6aah/index.m3u8
 
 #EXTINF:-1 group-title="PELICULAS Y SERIE" tvg-logo="https://i0.https://upload.wikimedia.org/wikipedia/commons/5/57/Paramount_Network_2024.svg" ,PARAMOUNT NETWOK 
 https://tvnoov.com/fadoo/paramountnetwork.m3u8
@@ -176,6 +207,36 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
 
+
+
+
+# CONTENIDO VARIADO  
+
+#EXTINF:-1 group-title="CONTENIDO VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf0b09469b863ba943590967bc25b9ed.webp" ,LAS ESTRELLAS 
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
+
+#EXTINF:-1 group-title="CONTENIDO VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/196b71be31a34959e939147b7821a24c.webp" ,CANAL 21  
+https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
+
+#EXTINF:-1 group-title="CONTENIDO VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a39ae0962d6b0b34320db480996652b7.webp" ,TVS RETRO
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+
+#EXTINF:-1 group-title="CONTENIDO VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d01da97f93f1ef5131206034468f8efc.webp" ,TELE PACÍFICO 
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
+
+#EXTINF:-1 group-title="CONTENIDO VARIADO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d01da97f93f1ef5131206034468f8efc.webp" ,ECUADOR TV
+https://play.cdn.enetres.net/6E5C615AA5FF4123ACAF0DAB57B7B8DC021/022/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
 # CHILE 
 
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://tvlibre.org/img/red.svg" ,LA RED
@@ -236,6 +297,10 @@ https://cnm-ctsa.otteravision.com/cnm/ctsa/ctsa.m3u8
 #EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/93afff6e61610492622e115373367f15.webp" ,MULTIVISION
 https://panel.host-live.com/825000/825000/playlist.m3u8
 
+#EXTINF:-1 group-title="ENTRETENIMIENTO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/b37dbf75dfdf5f5c5b4cb3f06c4e5a9b.webp" ,CANAL 6
+https://telecorporacion.cdn.vustreams.com/live/b164ebe7-decf-4a5a-8aea-5bb56fb92dfc/live.isml/live.m3u8
+
+
 
 
 #  MUSICA
@@ -252,6 +317,16 @@ https://59ef525c24caa.streamlock.net/tvurbano/tvurbano/playlist.m3u8?PlaylistM3U
 #EXTINF:-1 group-title="MUSICA" tvg-logo="data:image/png;base64,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" ,TV ONE
 https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8
 
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d48ad13c1fa2244fa089aed5e44e8fcd.webp" ,FLOW CARIBEÑO
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1083
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/efea896119450ed5bdc725f270cf31ec.webp" ,CANELA CINEMA 
+https://ov.ottera.tv/channels/cnm_cn_mv/master.m3u8
+
+
+
+
+
 
 
 
@@ -267,6 +342,10 @@ https://euronews-euronews-spanish-2-us.plex.wurl.tv/playlist.m3u8?network_id=257
 
 #EXTINF:-1 group-title="NOTÍCIAS - INFORMATIVO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ppcFevv2Az0ly_I27JsBjEeGKChganAY1QveIG2S5Q&s" ,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 group-title="NOTÍCIAS - INFORMATIVO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf45e62409db8ccac319dff3261c5d02.webp" ,TELE FÓRMULA
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4505
+
 
 
 
@@ -309,6 +388,20 @@ https://jactvpro.xyz/Upb93ECM5B/RRzkDRt6w8/10247.m3u8
 
 #EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/400px-TyC_Sports_logo.svg.png" ,TYC SPORTS 
 https://ch03-04-11-tyc.vodgc.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/a0221ad835e26b43c69c35e76f0cd052.webp" ,CANELA DEPORTES 
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5759
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f457ddce2f999c3f4b595e0966bd7f94.webp" ,TELETRACK
+https://teletraktv.janus.cl/playlist/stream.m3u8?s=lq&t=1699756660&id=louvd0p9&q=2&d=w
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e3bf7ef1f38f0a0e9e7be887f7704786.webp" ,COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f2cbaccbaa4aa529f84b010706ac547e.webp" ,TUDN
+https://d3uyzgka2wjb00.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-210b4ta87o6ku/f9264297-d1e6-4372-aa3d-1230d0e4ab08/0.m3u8
+
+
 
 
 
