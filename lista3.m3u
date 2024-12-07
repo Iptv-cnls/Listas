@@ -1,6 +1,18 @@
 #EXTM3U
 #FLIXY TV
 
+# RELIGIOSO 
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3cd5a38936b50ea78212770473565ee6.webp" ,MOVIE FE
+https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Enlace_Televisi%C3%B3n_logo.svg" ,ENLACE 
+https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
+
+#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Enlace_Televisi%C3%B3n_logo.svg" ,OASIS TV
+https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
+
+
 # NOVELAS
 
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzkWGmPrwpA_Wcd_oAAFv-Q1YPpthxJiSWoA&s" ,SONY CANAL NOVELAS
