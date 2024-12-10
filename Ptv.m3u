@@ -2,7 +2,7 @@
 
 # TOPO
 #EXTINF:-1 group-title="TOPO",CNN HD
-rtsp://sat.ip/?src=2&freq=11671&pol=h&ro=0.25&msys=dvbs2&mtype=8psk&plts=off&sr=23000&fec=23&pids=0,17,18,256,2324,2325,2326,2328
+https://embed.sdfgnksbounce.com/embed2/espn.html
 
 
 # DEPORTES 
