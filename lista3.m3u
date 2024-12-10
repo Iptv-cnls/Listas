@@ -9,9 +9,6 @@ https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 #EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Enlace_Televisi%C3%B3n_logo.svg" ,ENLACE 
 https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/chunklist_b2752000_sleng.m3u8
 
-#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTNZSCkm88MpWw6jjaGjqnAKicvogBl4yBdPBtLomExfd6jjUm3" ,OASIS TV
-https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
-
 #EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/8c946ae92a720ec528070cc58dcaa5a7.webp" ,CDM INTERNACIONAL 
 https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
 
@@ -35,9 +32,6 @@ https://live.canal27.tv:3882/live/canal27onlinelive.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/28cfc242a64fb8e4ccd47c3488e69f2a.webp" ,SPIRIT TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-
-#EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d5e881c97b312df382164b7b7e5f5509.webp" ,KURIAKOS CINE
-https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="RELIGIOSO" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/d5e881c97b312df382164b7b7e5f5509.webp" ,KURIAKOS CINE
 https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
